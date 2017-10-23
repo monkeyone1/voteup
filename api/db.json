@@ -1,0 +1,68 @@
+{
+  "options": [
+    {
+      "text": "鱼香肉丝",
+      "id": 2
+    },
+    {
+      "text": "宫保鸡丁",
+      "id": 4
+    },
+    {
+      "text": "烧茄子",
+      "id": 7
+    }
+  ],
+  "votes": [
+    {
+      "voter": "ccc",
+      "optionId": 2,
+      "id": 1
+    },
+    {
+      "voter": "ccc",
+      "optionId": 4,
+      "id": 2
+    },
+    {
+      "voter": "ccc",
+      "optionId": 4,
+      "id": 3
+    },
+    {
+      "voter": "ddd",
+      "optionId": 7,
+      "id": 4
+    },
+    {
+      "voter": "ddd",
+      "optionId": 7,
+      "id": 5
+    },
+    {
+      "voter": "ddd",
+      "optionId": 4,
+      "id": 6
+    },
+    {
+      "voter": "ccc",
+      "optionId": 7,
+      "id": 7
+    },
+    {
+      "voter": "dddd",
+      "optionId": 7,
+      "id": 8
+    },
+    {
+      "voter": "dddd",
+      "optionId": 4,
+      "id": 9
+    },
+    {
+      "voter": "dddd",
+      "optionId": 2,
+      "id": 10
+    }
+  ]
+}
